@@ -1,0 +1,14 @@
+.container{
+    background-color: rgb(34, 200, 145);
+    border: 3px solid blue;
+    width: 70%;
+    margin: 0px auto;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background-image: url(Math.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
